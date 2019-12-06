@@ -185,18 +185,18 @@ fieldset[disabled] .btn-ghost.active {
   border-color: #9055a2;
 }
 .btn-ghost-black {
-  color: #000000;
+  color: #292525;
   background-color: transparent;
-  border-color: #000000;
+  border-color: #292525;
 }
 .btn-ghost-black:hover,
 .btn-ghost-black:focus,
 .btn-ghost-black:active,
 .btn-ghost-black.active,
 .open .dropdown-toggle.btn-ghost-black {
-  color: #000000;
+  color: #292525;
   background-color: rgba(0, 0, 0, 0);
-  border-color: #000000;
+  border-color: #292525;
 }
 .btn-ghost-black:active,
 .btn-ghost-black.active,
@@ -219,11 +219,11 @@ fieldset[disabled] .btn-ghost-black:active,
 .btn-ghost-black[disabled].active,
 fieldset[disabled] .btn-ghost-black.active {
   background-color: transparent;
-  border-color: #000000;
+  border-color: #292525;
 }
 .btn-ghost-black .badge {
   color: transparent;
-  background-color: #000000;
+  background-color: #292525;
 }
 .btn-ghost-black:hover,
 .btn-ghost-black:focus,
@@ -231,8 +231,8 @@ fieldset[disabled] .btn-ghost-black.active {
 .btn-ghost-black.active,
 .open .dropdown-toggle.btn-ghost-black {
   color: #fff;
-  background-color: #000;
-  border-color: #000;
+  background-color: #292525;
+  border-color: #292525;
 }
 .btn-white {
   color: #ffffff;
@@ -335,7 +335,7 @@ SIDEBAR + RIGHT COLUMN
   letter-spacing: 0.1em;
 }
 .sidebar-heading a {
-  color: #000;
+  color: #292525;
   text-decoration: none;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -343,7 +343,7 @@ SIDEBAR + RIGHT COLUMN
 }
 .sidebar-heading a:hover {
   border-bottom: dotted 1px #9055a2;
-  color: #000;
+  color: #292525;
   text-decoration: none;
 }
 .sidebar-p {
@@ -408,7 +408,7 @@ SIDEBAR + RIGHT COLUMN
 }
 .content-column-content p,
 .content-column-content li {
-  color: #999999;
+  color: #4c4e4d;
 }
 .content-column-content ul li {
   list-style-type: none;
@@ -438,7 +438,7 @@ SIDEBAR + RIGHT COLUMN
   margin-top: 10px;
 }
 .small-navbar-heading a {
-  color: #000;
+  color: #292525;
   text-decoration: none;
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
@@ -446,7 +446,7 @@ SIDEBAR + RIGHT COLUMN
 }
 .small-navbar-heading a:hover {
   border-bottom: dotted 1px #9055a2;
-  color: #000;
+  color: #292525;
   text-decoration: none;
 }
 /*
@@ -845,12 +845,12 @@ a:active {
   letter-spacing: 0.1em;
 }
 .box-masonry h4 a {
-  color: #000;
+  color: #292525;
   border-bottom: solid 1px transparent;
 }
 .box-masonry h4 a:hover {
   border-bottom: dotted 1px #9055a2;
-  color: #000;
+  color: #292525;
   text-decoration: none;
 }
 .box-masonry .box-masonry-text {
@@ -1296,7 +1296,7 @@ STYLE SWITCHER FOR DEMO
 }
 /* navbar */
 .navbar {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,PingFang-SC-Regular,Hiragino Sans GB,Microsoft Yahei,Arial,sans-serif;
   min-height: 80px;
   margin-bottom: 0;
   border-top: none;
@@ -1583,10 +1583,10 @@ STYLE SWITCHER FOR DEMO
 }
 /* scaffolding */
 body {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,PingFang-SC-Regular,Hiragino Sans GB,Microsoft Yahei,Arial,sans-serif;
   font-size: 16px;
   line-height: 1.55;
-  color: #000000;
+  color: #292525;
   background-color: #f4f4f4;
 }
 a {
@@ -1660,7 +1660,7 @@ hr {
 /* buttons  */
 .btn {
   font-weight: 400;
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,PingFang-SC-Regular,Hiragino Sans GB,Microsoft Yahei,Arial,sans-serif;
   padding: 6px 12px;
   font-size: 16px;
   line-height: 1.55;
@@ -1779,7 +1779,7 @@ fieldset[disabled] .btn-transparent.active {
 }
 /* labels */
 .label {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,PingFang-SC-Regular,Hiragino Sans GB,Microsoft Yahei,Arial,sans-serif;
   font-weight: normal;
   text-transform: uppercase;
 }
@@ -1833,7 +1833,7 @@ label {
   text-transform: uppercase;
   letter-spacing: 0.1em;
   font-size: 14px;
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,PingFang-SC-Regular,Hiragino Sans GB,Microsoft Yahei,Arial,sans-serif;
   font-weight: bold;
 }
 .pager li {
@@ -1862,7 +1862,7 @@ label {
 /* pagination */
 .pagination {
   margin: 24px 0;
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,PingFang-SC-Regular,Hiragino Sans GB,Microsoft Yahei,Arial,sans-serif;
   border-radius: 0;
 }
 .pagination > li > a,
@@ -1948,10 +1948,10 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,PingFang-SC-Regular,Hiragino Sans GB,Microsoft Yahei,Arial,sans-serif;
   font-weight: 700;
   line-height: 1.2;
-  color: #000000;
+  color: #292525;
 }
 h1,
 .h1 {
